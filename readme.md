@@ -14,7 +14,9 @@ PCB tested, functioning properly as a macropad. This design was ordered as a pla
 | | |
 | --- | --- |
 | <img src="images/3d_front.png" alt="drawing" width="400"/> | <img src="images/3d_back.png" alt="drawing" width="400"/>|
-| <img src="images/pcb.png" alt="drawing" width="400"/> | <img src="images/IMG_8975.png" alt="drawing" width="400"/> |
+| <img src="images/pcb.png" alt="drawing" width="400"/> | |
+| <img src="images/render1.png" alt="drawing" width="400"/> | <img src="images/render2.png" alt="drawing" width="400"/>|
+| <img src="images/render3.png" alt="drawing" width="400"/> | <img src="images/render4.png" alt="drawing" width="400"/>|
 
 <br>
 
