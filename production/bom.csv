@@ -1,0 +1,14 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BOOT1,SW_SPST_TL3342,1,SW_SPST,
+"C1, C10, C3, C5, C6, C8, C9",0402,7,100nF,C307331
+C2,0603,1,10uF,C307331
+"C4, C7",0402,2,1uF,C307331
+"D1, D10, D11, D12, D2, D3, D4, D5, D6, D7, D8, D9",Diode_SOD-123,12,Diode,
+F1,1206,1,500mA,C135341
+J1,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,USB_C_Receptacle_USB2.0,
+"J6, RESET",PinHeader_1x02_P2.54mm_Vertical,2,Conn_01x02_Socket,
+"R1, R2, R3, R4",0402,4,5.1k,
+"S1, S10, S11, S12, S2, S3, S4, S5, S6, S7, S8, S9",Hotswap_MX_Plated_1.00u,12,Keyswitch,
+U1,LQFP-48_7x7mm_P0.5mm,1,STM32F072CBT6,
+U2,SOT-143,1,PRTR5V0U2X,C2827688
+U3,SOT-23,1,XC6206PxxxMR-Regulator_Linear,C5446
