@@ -10,11 +10,13 @@ PCB tested, functioning properly as a macropad. This design was ordered as a pla
 
 <br>
 
-##
+## pics
 | | |
 | --- | --- |
 | <img src="images/3d_front.png" alt="drawing" width="400"/> | <img src="images/3d_back.png" alt="drawing" width="400"/>|
 | <img src="images/pcb.png" alt="drawing" width="400"/> | <img src="images/IMG_8975.png" alt="drawing" width="400"/> |
+
+<br>
 
 ## firmware
 
