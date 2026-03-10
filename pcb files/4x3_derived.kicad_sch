@@ -4138,6 +4138,18 @@
 		(uuid "8b8dcaf2-2839-434d-9534-3801e06293f2")
 	)
 	(junction
+		(at 208.28 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9e04de9d-7f5d-4102-8d48-0cf586e48565")
+	)
+	(junction
+		(at 213.36 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4d950eb-083c-41c8-9eda-9f088f45a820")
+	)
+	(junction
 		(at 90.805 156.845)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4328,6 +4340,16 @@
 			(type default)
 		)
 		(uuid "11591d57-e432-4d52-abbb-91b002d1e1d9")
+	)
+	(wire
+		(pts
+			(xy 201.93 96.52) (xy 208.28 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "126c4faf-9bc8-49bd-bf99-8ce0e26f8a95")
 	)
 	(wire
 		(pts
@@ -4878,6 +4900,16 @@
 			(type default)
 		)
 		(uuid "7b423c41-124f-4d5d-9818-db2c73eb09b0")
+	)
+	(wire
+		(pts
+			(xy 207.01 101.6) (xy 213.36 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8027d7e5-8595-45a6-ac0b-0a1cf30cef43")
 	)
 	(wire
 		(pts
@@ -8482,6 +8514,74 @@
 			(project "4x3_derived"
 				(path "/8acf9178-c717-45ce-a576-3c1ce2e01f2e"
 					(reference "D10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at 204.47 99.06 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5a2e2b89-9736-4b6c-81ad-18c7b930299a")
+		(property "Reference" "S13"
+			(at 204.47 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at 204.47 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_Plated_1.00u"
+			(at 204.47 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 204.47 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 204.47 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "24c1511d-2d34-42d7-b4a3-cb2993711c1e")
+		)
+		(pin "2"
+			(uuid "ad1cfd85-9129-4e90-863f-544768f1a5ff")
+		)
+		(instances
+			(project "4x3_derived"
+				(path "/8acf9178-c717-45ce-a576-3c1ce2e01f2e"
+					(reference "S13")
 					(unit 1)
 				)
 			)
