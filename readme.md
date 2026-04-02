@@ -4,7 +4,7 @@
 ## description 
 4x3, four columns and three rows.
 
-Derived, as in derived from the lv2x2 macropad.
+Derived, as in derived from the [previous 2x2 macropad](https://github.com/valerietsoi/2squared).
 
 PCB and firmware tested.
 
