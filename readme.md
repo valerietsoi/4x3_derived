@@ -6,18 +6,18 @@
 
 Derived, as in derived from the lv2x2 macropad.
 
-PCB tested, functioning properly as a macropad. This design was ordered as a plain pcb without any assembly service. A Yihua hot air gun was used to solder all components except for the diodes and the hotswap sockets.
+PCB and firmware tested.
+
+Stabless only.
 
 <br>
 
 ## pics
 | | |
 | --- | --- |
-| <img src="images/3d_front.png" alt="drawing" width="400"/> | <img src="images/3d_back.png" alt="drawing" width="400"/>|
-| <img src="images/pcb.png" alt="drawing" width="400"/> | |
-| <img src="images/render1.png" alt="drawing" width="400"/> | <img src="images/render2.png" alt="drawing" width="400"/>|
-| <img src="images/render3.png" alt="drawing" width="400"/> | <img src="images/render4.png" alt="drawing" width="400"/>|
-
+| <img src="images/_DSC4856.JPG" alt="drawing" width="400"/> | <img src="images/_DSC4857.JPG" alt="drawing" width="400"/>|
+| <img src="images/_DSC4854.JPG" alt="drawing" width="400"/> | <img src="images/_DSC4862.JPG" alt="drawing" width="400"/> |
+| <img src="images/vial1.png" alt="drawing" width="300"/> | <img src="images/vial2.png" alt="drawing" width="400"/> |
 <br>
 
 ## firmware
